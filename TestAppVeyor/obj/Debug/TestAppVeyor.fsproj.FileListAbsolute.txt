@@ -1,0 +1,8 @@
+\\psf\home\documents\visual studio 2013\Projects\TestAppVeyor\TestAppVeyor\bin\Debug\TestAppVeyor.exe.config
+\\psf\home\documents\visual studio 2013\Projects\TestAppVeyor\TestAppVeyor\bin\Debug\TestAppVeyor.XML
+\\psf\home\documents\visual studio 2013\Projects\TestAppVeyor\TestAppVeyor\bin\Debug\TestAppVeyor.exe
+\\psf\home\documents\visual studio 2013\Projects\TestAppVeyor\TestAppVeyor\bin\Debug\TestAppVeyor.pdb
+\\psf\home\documents\visual studio 2013\Projects\TestAppVeyor\TestAppVeyor\bin\Debug\FSharp.Core.dll
+\\psf\home\documents\visual studio 2013\Projects\TestAppVeyor\TestAppVeyor\bin\Debug\FSharp.Core.xml
+\\psf\home\documents\visual studio 2013\Projects\TestAppVeyor\TestAppVeyor\obj\Debug\TestAppVeyor.exe
+\\psf\home\documents\visual studio 2013\Projects\TestAppVeyor\TestAppVeyor\obj\Debug\TestAppVeyor.pdb
